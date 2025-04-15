@@ -1,4 +1,4 @@
-![Alt# 🧮 Simple Calculator
+ 🧮 Simple Calculator
 
 ![Calculator Screenshot](calculator.jpg)
 
